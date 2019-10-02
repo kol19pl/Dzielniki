@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diviseurs</string>
+    <string name="wyniki_dla">Résultats pour</string>
+    <string name="dzielniki_liczb">Diviseurs numériques</string>
+    <string name="spraw">chèque</string>
+    <string name="Wartosc_wej">La valeur d\'entrée ne peut pas être vide.</string>
+    <string name="Wartosc_wejsciowa_poza_zasiengiem">Valeur d\'entrée au-delà de la plage de conversion par l\'algorithme d\'application.</string>
+</resources>

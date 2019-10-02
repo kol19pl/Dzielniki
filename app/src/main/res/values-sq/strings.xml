@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ndarësit e numrave</string>
+    <string name="wyniki_dla">Rezultatet për</string>
+    <string name="dzielniki_liczb">Ndarësit e numrave</string>
+    <string name="spraw">kontrolloni</string>
+    <string name="Wartosc_wej">Vlera e hyrjes nuk mund të jetë bosh.</string>
+    <string name="Wartosc_wejsciowa_poza_zasiengiem">Vlera e hyrjes përtej intervalit të konvertimit nga algoritmi i aplikacionit.</string>
+    </resources>

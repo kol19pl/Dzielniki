@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Divisores de números</string>
+    <string name="wyniki_dla">Resultados para</string>
+    <string name="Wartosc_wej">O valor de entrada não pode estar vazio.</string>
+    <string name="Wartosc_wejsciowa_poza_zasiengiem">Valor de entrada além do intervalo de conversão pelo algoritmo do aplicativo.</string>
+    <string name="dzielniki_liczb">Divisores de números</string>
+    <string name="spraw">Verifique</string>
+</resources>

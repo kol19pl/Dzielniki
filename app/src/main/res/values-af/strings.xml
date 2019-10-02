@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Getalverdelers</string>
+    <string name="wyniki_dla">Resultate vir</string>
+    <string name="dzielniki_liczb">Aantal verdelers</string>
+    <string name="spraw">Check</string>
+    <string name="Wartosc_wej">Die invoerwaarde kan nie leeg wees nie.</string>
+    <string name="Wartosc_wejsciowa_poza_zasiengiem">Toevoerwaarde buite die omskakelingsgebied deur die toepassingsalgoritme.</string>
+</resources>

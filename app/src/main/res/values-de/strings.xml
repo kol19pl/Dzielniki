@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zahlenteiler</string>
+    <string name="dzielniki_liczb">Zahlenteiler</string>
+    <string name="spraw">Täter</string>
+    <string name="Wartosc_wej">Der Eingabewert darf nicht leer sein.</string>
+    <string name="Wartosc_wejsciowa_poza_zasiengiem">Eingabewert außerhalb des Konvertierungsbereichs durch den Anwendungsalgorithmus.</string>
+    <string name="wyniki_dla">Ergebnisse für</string>
+</resources>

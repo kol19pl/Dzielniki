@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Делители числа</string>
+    <string name="wyniki_dla">Результаты для</string>
+    <string name="dzielniki_liczb">Делители числа</string>
+    <string name="spraw">Проверить</string>
+    <string name="Wartosc_wej">Входное значение не может быть пустым.</string>
+    <string name="Wartosc_wejsciowa_poza_zasiengiem">Входное значение за пределами диапазона преобразования по алгоритму приложения.</string>
+</resources>

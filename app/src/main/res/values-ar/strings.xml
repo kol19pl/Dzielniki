@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">عدد الفواصل</string>
+    <string name="dzielniki_liczb">عدد الفواصل</string>
+    <string name="spraw">الاختيار</string>
+    <string name="Wartosc_wej">لا يمكن أن تكون قيمة الإدخال فارغة.</string>
+    <string name="Wartosc_wejsciowa_poza_zasiengiem">قيمة الإدخال تتجاوز نطاق التحويل بواسطة خوارزمية التطبيق</string>
+    <string name="wyniki_dla">نتائج ل</string>
+</resources>

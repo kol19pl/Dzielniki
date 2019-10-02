@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">分频器</string>
+    <string name="wyniki_dla">的结果</string>
+    <string name="Wartosc_wejsciowa_poza_zasiengiem">输入值超出了应用算法的转换范围。</string>
+    <string name="Wartosc_wej">输入值不能为空。</string>
+    <string name="spraw">检查</string>
+    <string name="dzielniki_liczb">分频器</string>
+</resources>

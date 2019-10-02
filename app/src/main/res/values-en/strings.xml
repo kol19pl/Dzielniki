@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Number Dividers</string>
+    <string name="wyniki_dla">Results for</string>
+    <string name="dzielniki_liczb">Number dividers</string>
+    <string name="spraw">Perpetrator</string>
+    <string name="Wartosc_wej">The input value cannot be empty.</string>
+    <string name="Wartosc_wejsciowa_poza_zasiengiem">Input value beyond the conversion range by the application algorithm.</string>
+</resources>
