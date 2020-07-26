@@ -6,4 +6,5 @@
     <string name="Wartosc_wej">输入值不能为空。</string>
     <string name="spraw">检查</string>
     <string name="dzielniki_liczb">分频器</string>
+    <string name="dzielnik_wynik">除数  ||  导致</string>
 </resources>

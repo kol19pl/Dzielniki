@@ -6,4 +6,5 @@
     <string name="Wartosc_wej">Wartość wejściowa nie może być pusta.</string>
     <string name="Wartosc_wejsciowa_poza_zasiengiem">Wartość wejściowa poza zasięgiem przeliczenia przez algorytm aplikacji.</string>
     <string name="spraw">Sprawdź</string>
+    <string name="dzielnik_wynik">dzielnik || wynik</string>
 </resources>

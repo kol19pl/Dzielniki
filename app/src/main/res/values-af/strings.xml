@@ -6,4 +6,5 @@
     <string name="spraw">Check</string>
     <string name="Wartosc_wej">Die invoerwaarde kan nie leeg wees nie.</string>
     <string name="Wartosc_wejsciowa_poza_zasiengiem">Toevoerwaarde buite die omskakelingsgebied deur die toepassingsalgoritme.</string>
+    <string name="dzielnik_wynik">deler || lei</string>
 </resources>

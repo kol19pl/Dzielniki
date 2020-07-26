@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
     TextView PrzeliczeniePow;
     TextView Ouput;
     private AdView mAdView;
-
+       int dzielnik;
 
 
 
@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
     public void Sprawdz(View v){
 
         String Input = Wejscie.getText().toString();
+
 
         InputMethodManager imm = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
         imm.hideSoftInputFromWindow(v.getWindowToken(), 0);
@@ -113,7 +114,7 @@ public class MainActivity extends AppCompatActivity {
                      ouput = Wejscieint / i;
                      if (Wejscieint == ouput * i) {
 
-                         CiongWyjsciowy = CiongWyjsciowy + "\n" + i;
+                         CiongWyjsciowy = CiongWyjsciowy + "\n" + i+"    ||   "+ouput;
                      }
 
                  } catch (Exception e) {

@@ -6,4 +6,5 @@
     <string name="Wartosc_wej">Der Eingabewert darf nicht leer sein.</string>
     <string name="Wartosc_wejsciowa_poza_zasiengiem">Eingabewert außerhalb des Konvertierungsbereichs durch den Anwendungsalgorithmus.</string>
     <string name="wyniki_dla">Ergebnisse für</string>
+    <string name="dzielnik_wynik">Teiler || Ergebnis</string>
 </resources>
