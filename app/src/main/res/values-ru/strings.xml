@@ -7,4 +7,5 @@
     <string name="Wartosc_wej">Входное значение не может быть пустым.</string>
     <string name="Wartosc_wejsciowa_poza_zasiengiem">Входное значение за пределами диапазона преобразования по алгоритму приложения.</string>
     <string name="dzielnik_wynik">делитель || результат</string>
+    <string name="pop_up_zamykanie">Нажмите еще раз, чтобы закрыть.</string>
 </resources>

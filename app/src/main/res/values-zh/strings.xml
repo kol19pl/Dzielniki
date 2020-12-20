@@ -7,4 +7,5 @@
     <string name="spraw">检查</string>
     <string name="dzielniki_liczb">分频器</string>
     <string name="dzielnik_wynik">除数  ||  导致</string>
+    <string name="pop_up_zamykanie">再按一次关闭。</string>
 </resources>

@@ -7,4 +7,5 @@
     <string name="dzielniki_liczb">Divisores de números</string>
     <string name="spraw">Verifique</string>
     <string name="dzielnik_wynik">divisor || resultar</string>
+    <string name="pop_up_zamykanie">Pressione novamente para fechar.</string>
 </resources>

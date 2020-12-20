@@ -7,4 +7,5 @@
     <string name="Wartosc_wej">Die invoerwaarde kan nie leeg wees nie.</string>
     <string name="Wartosc_wejsciowa_poza_zasiengiem">Toevoerwaarde buite die omskakelingsgebied deur die toepassingsalgoritme.</string>
     <string name="dzielnik_wynik">deler || lei</string>
+    <string name="pop_up_zamykanie">Druk weer om te sluit.</string>
 </resources>

@@ -7,4 +7,5 @@
     <string name="Wartosc_wej">La valeur d\'entrée ne peut pas être vide.</string>
     <string name="Wartosc_wejsciowa_poza_zasiengiem">Valeur d\'entrée au-delà de la plage de conversion par l\'algorithme d\'application.</string>
     <string name="dzielnik_wynik">diviseur || résultat</string>
+    <string name="pop_up_zamykanie">Appuyez à nouveau pour fermer.</string>
 </resources>
