@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        //setContentView(R.layout.activity_main);
 
         setContentView(R.layout.dzielniki_liczb);
         Wejscie = (EditText)findViewById(R.id.editText);
@@ -238,7 +238,7 @@ public class MainActivity extends AppCompatActivity {
 
         int adWidth = (int) (adWidthPixels / density);
 
-        return AdSize.getCurrentOrientationBannerAdSizeWithWidth(this, adWidth);
+        return AdSize.getCurrentOrientationAnchoredAdaptiveBannerAdSize(this, adWidth);
     }
 
 
