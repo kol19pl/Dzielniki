@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 33
+    compileSdkVersion 34
     defaultConfig {
         applicationId "com.koltech.dzielnikiliczb"
         minSdkVersion 19
-        targetSdkVersion 33
-        versionCode 6
-        versionName "1.5"
+        targetSdkVersion 34
+        versionCode 7
+        versionName "1.6"
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
